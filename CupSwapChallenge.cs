@@ -1,4 +1,4 @@
-// CUPSWAB CHALLENGE WRITE BY KAIKU (KADDI GZ)
+// CUPSWAB CHALLENGE WRITE BY KAIKU
 
 // cupSwapping(["AB", "CA", "AB"]) ➞ "C"
 // Ball begins at position B.
