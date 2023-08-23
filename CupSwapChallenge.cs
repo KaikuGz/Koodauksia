@@ -1,4 +1,6 @@
-﻿// cupSwapping(["AB", "CA", "AB"]) ➞ "C"
+// CUPSWAB CHALLENGE WRITE BY KAIKU (KADDI GZ)
+
+// cupSwapping(["AB", "CA", "AB"]) ➞ "C"
 // Ball begins at position B.
 // Cups A and B swap, so the ball is at position A.
 // Cups C and A swap, so the ball is at position C.
